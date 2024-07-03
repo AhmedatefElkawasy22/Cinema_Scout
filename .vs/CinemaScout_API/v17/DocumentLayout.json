@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS file\\projectsApi\\CinemaScout_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\services\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\services\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\services\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\services\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\services\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\services\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\services\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\services\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\services\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\services\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\services\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\services\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|d:\\vs file\\projectsapi\\cinemascout_api\\cinemascout_api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB21C256-5638-4263-9645-07545A40E25D}|CinemaScout_API\\CinemaScout_API.csproj|solutionrelative:cinemascout_api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 199,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Services\\MovieRepository.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\MovieRepository.cs",
+              "RelativeToolTip": "CinemaScout_API\\Services\\MovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:27:59.465Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenricRepository.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\IGenricRepository.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Services\\IGenricRepository.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\IGenricRepository.cs",
+              "RelativeToolTip": "CinemaScout_API\\Services\\IGenricRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:39:35.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CinemaScout_API\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:44:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\UOW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\UOW\\UnitOfWork.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\UOW\\UnitOfWork.cs",
+              "RelativeToolTip": "CinemaScout_API\\UOW\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:49:49.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Program.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Program.cs",
+              "RelativeToolTip": "CinemaScout_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:43:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenricRepository.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\GenricRepository.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Services\\GenricRepository.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\GenricRepository.cs",
+              "RelativeToolTip": "CinemaScout_API\\Services\\GenricRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:53:13.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Controllers\\GenresController.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "CinemaScout_API\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:34:01.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Services\\IMovieRepository.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\IMovieRepository.cs",
+              "RelativeToolTip": "CinemaScout_API\\Services\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:28:57.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CinemaScout_API\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:28:28.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Services\\IGenreRepository.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\IGenreRepository.cs",
+              "RelativeToolTip": "CinemaScout_API\\Services\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:27:58.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "CinemaScout_API\\Services\\GenreRepository.cs",
+              "ToolTip": "D:\\VS file\\projectsApi\\CinemaScout_API\\CinemaScout_API\\Services\\GenreRepository.cs",
+              "RelativeToolTip": "CinemaScout_API\\Services\\GenreRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAywBcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:27:57.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

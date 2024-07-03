@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaScout_API", "CinemaScout_API\CinemaScout_API.csproj", "{BB21C256-5638-4263-9645-07545A40E25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB21C256-5638-4263-9645-07545A40E25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB21C256-5638-4263-9645-07545A40E25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB21C256-5638-4263-9645-07545A40E25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB21C256-5638-4263-9645-07545A40E25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB64058C-93F4-421D-953A-83DA1F7CB60F}
+	EndGlobalSection
+EndGlobal
